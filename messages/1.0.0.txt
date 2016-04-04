@@ -1,0 +1,4 @@
+1.0.0
+=====
+* added completions for common beautiful soup methods
+

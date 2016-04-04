@@ -1,0 +1,23 @@
+Beautiful Soup Completion
+=========================
+
+About
+======
+Completion suggestions for beautiful soup.
+
+How to Use
+==========
+Just type and the methods would pop up. Press tab to select.
+
+
+Contributing
+=============
+
+All contributions are welcome. Just fork it on Github <https://github.com/tushortz/Beautiful-Soup-Completion> and create a pull request.
+
+License
+========
+
+Copyright © 2016 Taiwo Kareem | taiwo.kareem36@gmail.com.
+
+Read license.txt
